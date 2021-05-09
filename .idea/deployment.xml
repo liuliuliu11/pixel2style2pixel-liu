@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="root@vpc.ac.cn:25071">
+    <serverData>
+      <paths name="remoteserver">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/opt/data/private/pixel2style2pixel-master" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@vpc.ac.cn:25071">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/opt/data/private/pixel2style2pixel-master" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
